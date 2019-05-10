@@ -1,0 +1,71 @@
+.mainPage{
+    background-image: url(backgroundImage.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.resultField{
+    border: solid black 2px;
+    height: 600px;
+    margin-top:50px;
+}
+.srcField{
+    border: solid black 2px;
+    margin-left: 230px;
+    margin-right: 285px;
+    padding: 10px;
+}
+.searchButton{
+    margin-top: 10px;
+    margin-left: 650px;
+}
+#param-page{
+    margin-left: 10px;
+}
+#param-pagesize{
+    margin-left: 40px;
+}
+#param-fromdate{
+    margin-left: 40px;
+    width: 168px;
+}
+#param-todate{
+    margin-left: 10px;
+    width: 168px;
+}
+#param-order{
+    margin-left: 15px;
+    margin-top: 10px;
+    width: 173px;
+}
+#param-min{
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 168px;
+}
+#param-max{
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 168px;
+}
+#param-sort{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 173px;
+}
+#param-tagged{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#param-nottagged{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+#param-intitle{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+#datepickericon{
+    width: 25px;
+    height: 25px;
+}
